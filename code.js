@@ -1,4 +1,4 @@
-let nrOfPics = 3;
+let nrOfPics = 21;
 
 function showPic() {
   let rand = Math.floor(Math.random() * nrOfPics);
